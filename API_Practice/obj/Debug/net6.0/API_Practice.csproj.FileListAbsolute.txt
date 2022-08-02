@@ -1,0 +1,17 @@
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\bin\Debug\net6.0\API_Practice.exe
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\bin\Debug\net6.0\API_Practice.deps.json
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\bin\Debug\net6.0\API_Practice.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\bin\Debug\net6.0\API_Practice.dll
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\bin\Debug\net6.0\API_Practice.pdb
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.csproj.CopyComplete
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.dll
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\refint\API_Practice.dll
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.pdb
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\API_Practice.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\API_Practice\API_Practice\obj\Debug\net6.0\ref\API_Practice.dll
